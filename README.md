@@ -1,8 +1,8 @@
-#Netlink-Project
+# Netlink-Project
 
 Netlink-Project is a simple program created to practise knowdledge about netlink
 
-#Functionality
+# Functionality
 
 * Monitoring linux networking state.
 * Getting linux routing table.
